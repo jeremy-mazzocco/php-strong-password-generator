@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: blueviolet;
+    height: 800px;
+    margin: 0 auto;
+}
+
+h1,
+h2 {
+    padding-top: 50px;
+    text-align: center;
+}
+
+.sub-container {
+    padding: 100px;
+}
+
+#input-1 {
+    width: 80%;
+    height: 50px;
+}
